@@ -1,0 +1,74 @@
+
+.welcome {
+  font-size: 500%;
+  color: black;
+  font-family: Comic Sans MS;
+  text-align: center;
+}
+
+.navbar {
+  position: fixed;
+  padding: 1%;
+  width: 100%;
+  background-color: orangered;
+  text-align: center;
+  font-family: Comic Sans MS;
+  color: black;
+  text-shadow: 2px 2px rgb(218, 63, 125);
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.navlinks {
+  text-align: center;
+  margin-left: 2.5%;
+  margin-right: 2.5%;
+  color: white;
+  text-decoration: none;
+  text-shadow: 2px 2px rgb(218, 63, 125);
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.body {
+  margin: 10%;
+  padding: 3%;
+  margin-top: 30px;
+  border: solid yellow;
+}
+
+.form {
+  margin: 10%;
+  padding: 3%;
+  margin-top: 30px;
+  text-align: center;
+  border-radius: 10px;
+  font-family: Comic Sans MS;
+  color: orangered;
+}
+
+.input {
+  text-align: center;
+  border-radius: 10px;
+  font-family: Comic Sans MS;
+  color: orangered;
+  height: 80px;
+  width: 360px;
+  font-size: x-large;
+  margin: 1%;
+  padding: .5%;
+}
+
+.button {
+  border-radius: 10px;
+  padding: .5%;
+  height: 80px;
+  width: 120px;
+  font-size: x-large;
+  background-color: orangered;
+  color: white;
+  text-shadow: 2px 2px rgb(218, 63, 125);
+  font-family: Comic Sans MS;
+  margin: 1%;
+  text-decoration: none;
+}
